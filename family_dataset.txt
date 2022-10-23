@@ -1,0 +1,22 @@
+Mum,Spouse,Spouse's Gender,Child,Child's Gender
+Queen-Margret,King-Arthur,M,Bill,M
+Queen-Margret,King-Arthur,M,Charlie,M
+Queen-Margret,King-Arthur,M,Percy,M
+Queen-Margret,King-Arthur,M,Ronald,M
+Queen-Margret,King-Arthur,M,Ginerva,F
+Flora,Bill,M,Victoire,F
+Flora,Bill,M,Dominique,F
+Flora,Bill,M,Louis,M
+Audrey,Percy,M,Molly,F
+Audrey,Percy,M,Lucy,F
+Helen,Ronald,M,Rose,F
+Helen,Ronald,M,Hugo,M
+Ginerva,Harry,M,James,M
+Ginerva,Harry,M,Albus,M
+Ginerva,Harry,M,Lily,F
+Victoire,Ted,M,Remus,M
+Rose,Malfoy,M,Draco,M
+Rose,Malfoy,M,Aster,F
+Darcy,James,M,William,M
+Alice,Albus,M,Ron,M
+Alice,Albus,M,Ginny,F
