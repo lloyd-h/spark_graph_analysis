@@ -1,6 +1,5 @@
 """
 Let's try to develop some data structures in python. Specially graph traversal - Breadth first and Depth first.
-I'm sometimes week at recursion.
 
 SOLID - stands for 5 principals :
 Single Responsibility
